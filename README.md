@@ -1,2 +1,2 @@
 ACESSE O SITE
-<a href="https://corn-fuel.netlify.app/">CORN FUEL COMBUSTÍVEIS</a>
+<a href="https://corn-fuel.netlify.app/" target="_blank">CORN FUEL COMBUSTÍVEIS</a>
